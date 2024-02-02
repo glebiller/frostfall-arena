@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\guill\\documents\\unreal projects\\frostfallarena\\plugins\\gamefeatures\\frostfallarenacore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\frostfallarenacoreruntime\\module.frostfallarenacoreruntime.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\guill\\documents\\unreal projects\\frostfallarena\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\guill\\documents\\unreal projects\\frostfallarena\\plugins\\gamefeatures\\frostfallarenacore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\frostfallarenacoreruntime\\definitions.frostfallarenacoreruntime.h",
+            "c:\\users\\guill\\documents\\unreal projects\\frostfallarena\\plugins\\gamefeatures\\frostfallarenacore\\source\\frostfallarenacoreruntime\\private\\frostfallarenacoreruntimemodule.cpp",
+            "c:\\users\\guill\\documents\\unreal projects\\frostfallarena\\plugins\\gamefeatures\\frostfallarenacore\\source\\frostfallarenacoreruntime\\public\\frostfallarenacoreruntimemodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

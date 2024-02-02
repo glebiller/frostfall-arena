@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.FrostFallArenaCoreRuntime.cpp.obj": [
+			"FrostFallArenaCoreRuntimeModule.cpp.obj"
+		]
+	}
+}
